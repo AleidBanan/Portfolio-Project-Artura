@@ -64,7 +64,7 @@ To ensure long-term sustainability and scalability, **Artura** follows a strateg
 | **Khuloud Alqarni** | **Backend Lead** |
 | **Raghad Nassef** | XX |
 | **Layan Aldosari** | **QA Lead** |
-| **Banan Aleid** | XX |
+| **Banan Aleid** | **Database Lead** |
 
 ## 5. Technical Stack & Tools
 The team has selected a modern and scalable technical stack to ensure the performance and reliability of the Artura platform.
