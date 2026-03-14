@@ -86,7 +86,7 @@ The team has selected a modern and scalable technical stack to ensure the perfor
 * **Prototyping:** Figma
 
 ### 🚀 Collaboration & DevOps
-**IDE:** **Visual Studio Code (VS Code)**
+* **IDE:** **Visual Studio Code (VS Code)**
 * **Version Control:** Git & GitHub
 * **Project Management:** Notion / GitHub Projects
 * **Communication:** Slack / Zoom
