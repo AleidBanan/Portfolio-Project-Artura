@@ -70,7 +70,7 @@ To ensure long-term sustainability and scalability, **Artura** follows a strateg
 The team has selected a modern and scalable technical stack to ensure the performance and reliability of the Artura platform.
 
 ### 🛠 Backend & Infrastructure 
-* **Language:** Python 3.x
+* **Language:** Python 
 * **Framework:** Flask (RESTful API)
 * **Authentication:** JWT (JSON Web Tokens)
 * **Documentation:** Swagger 
